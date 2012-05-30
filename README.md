@@ -38,4 +38,4 @@ Work here is relesed under Phil Sturgeons DBAD license. http://philsturgeon.co.u
 Thanks
 -------
 
-Thank to FuelPHP for the cli class.
+Thank to FuelPHP for the cli class. http://fuelphp.com/
