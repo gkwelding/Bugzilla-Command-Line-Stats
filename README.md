@@ -34,3 +34,8 @@ Copyright
 ----------
 
 Work here is relesed under Phil Sturgeons DBAD license. http://philsturgeon.co.uk/code/dbad-license. Just give me some goddam credit if you use it and don't be a dick.
+
+Thanks
+-------
+
+Thank to FuelPHP for the cli class.
